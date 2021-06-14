@@ -6,6 +6,7 @@
 
 This project is a 42 school project. The goal is to code a HTTP server with the internal implementation of Nginx.
 See /docs/webserv.pdf
+
 Webserv is a group project carried out by Jecaudal, Mli and Jereligi.
 
 ## Details
